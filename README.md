@@ -22,7 +22,7 @@ El sistema integra modelos matemáticos de control de stock para mejorar la toma
 | **Dashboard** | KPIs y gráficos en tiempo real |
 
 ---
-
+## https://youtu.be/VWDBuBrrizw
 ## Objetivo
 
 > Desarrollar un sistema de gestión y optimización de inventarios mediante la integración de modelos matemáticos de control de stock (EOQ, punto de reorden y análisis ABC) para mejorar la toma de decisiones y reducir pérdidas operativas en PYMES del sector comercial de Pitalito, Huila.
