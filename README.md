@@ -17,7 +17,7 @@ El sistema integra modelos matemáticos de control de stock para mejorar la toma
 |--------|-------------|
 | **EOQ** | Lote Económico de Pedido - Cantidad óptima a pedir |
 | **ROP** | Punto de Reorden - Cuándo hacer un nuevo pedido |
-| **ABC** | Clasificación Pareto 80/20 - Productos por valor |
+| **ABC** | Clasificación Pareto -  Productos por valor |
 | **Alertas** | Stock bajo - Notificaciones automáticas |
 | **Dashboard** | KPIs y gráficos en tiempo real |
 
