@@ -7,6 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
+
 ## 📌 Descripción
 
 **GestOnline** es una plataforma web diseñada para la gestión y optimización de inventarios en Pequeñas y Medianas Empresas (PYMES) del sector comercial de **Pitalito, Huila, Colombia**.
@@ -22,7 +23,10 @@ El sistema integra modelos matemáticos de control de stock para mejorar la toma
 | **Dashboard** | KPIs y gráficos en tiempo real |
 
 ---
-## https://youtu.be/VWDBuBrrizw
+## Video de presentacion
+
+https://youtu.be/VWDBuBrrizw
+---
 ## Objetivo
 
 > Desarrollar un sistema de gestión y optimización de inventarios mediante la integración de modelos matemáticos de control de stock (EOQ, punto de reorden y análisis ABC) para mejorar la toma de decisiones y reducir pérdidas operativas en PYMES del sector comercial de Pitalito, Huila.
